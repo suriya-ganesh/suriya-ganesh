@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 <!--
 **suriya-ganesh/suriya-ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
