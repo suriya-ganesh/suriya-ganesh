@@ -4,11 +4,14 @@
 
 My code is like my coffee: strong, refined, and occasionally keeps me up at night. 🌙
 
-__Languages__: Rust 🦀, Go, C++, Python, JavaScript
+__Languages__: Rust 🦀, Go, C++ , Python 🐍, Java, JavaScript 
+
 __Domains__: Data Privacy, Federated Learning, Privacy-Preserving Technologies, Distributed Systems
-__Tools__: Kafka, k8s, Docker, AWS-GCP-Azure et al., PyTorch, ONNX
+
+__Tools__: Kafka, k8s, Docker, AWS-GCP-Azure et al., Ray, PyTorch, ONNX.
 
 ## 🔍 Current Focus
+
 Exploring the intersection of Privacy and Machine Learning at Carnegie Mellon University. Because who says you can't have your cake and eat it privately too? 🍰🕵️
 
 
@@ -19,13 +22,17 @@ Optimized a governance engine, slashing p99 response time from 150ms to 5ms at 1
 Migrated a privacy-vault from single-tenant to multi-tenant architecture with multi-region data residency
 
 ## 🌱 Always Growing
+
 When I'm not pushing commits, you'll find me:
 
-Devouring books on everything from Plato to Machine Learning
-Tending to coffee plants (yes, I'm a Java expert in more ways than one ☕)
-Solving complex problems (because who needs sleep when you have algorithms?)
+Devouring books on everything from Plato to Machine Learning (Ask me about the current book that I'm reading.)
+
+Tending to coffee plants (yes, I'm a Java expert in more ways than one ☕).
+
+Staring at my ceiling. (because who needs sleep when you have recursive thoughts?)
 
 ## 🎯 Philosophy
+
 I believe in velocity over slowness, output over input, and occasionally, coffee over sleep. My code is like a well-pruned coffee plant: trimmed for efficiency, robust in structure, and produces a rich output.
 
 
